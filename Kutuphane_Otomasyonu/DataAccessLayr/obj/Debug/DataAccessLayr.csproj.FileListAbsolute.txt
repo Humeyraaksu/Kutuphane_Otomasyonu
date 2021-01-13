@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Desktop\Görsel_Programlama\Kutuphane_Otomasyonu\DataAccessLayr\obj\Debug\DataAccessLayr.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Görsel_Programlama\Kutuphane_Otomasyonu\DataAccessLayr\obj\Debug\DataAccessLayr.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Görsel_Programlama\Kutuphane_Otomasyonu\DataAccessLayr\obj\Debug\DataAccessLayr.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Görsel_Programlama\Kutuphane_Otomasyonu\DataAccessLayr\obj\Debug\DataAccessLayr.csproj.CoreCompileInputs.cache
